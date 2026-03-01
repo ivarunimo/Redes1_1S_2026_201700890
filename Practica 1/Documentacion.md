@@ -79,47 +79,47 @@
 | 192.168.<b>90</b>.213 | Servidores principales | 3 | Servidor |
 
 ## Configuración de los switches
-![Switch](/Imagenes/Switch_1.png)
-![Switch](/Imagenes/Switch_2.png)
-![Switch](/Imagenes/Switch_3.png)
-![Switch](/Imagenes/Switch_4.png)
-![Switch](/Imagenes/Switch_5.png)
+![Switch](./Imagenes/Switch_1.png)
+![Switch](./Imagenes/Switch_2.png)
+![Switch](./Imagenes/Switch_3.png)
+![Switch](./Imagenes/Switch_4.png)
+![Switch](./Imagenes/Switch_5.png)
 
 ## Configuración de las VPCs
 ### Imagen 1
-![VPC](/Imagenes/Topologia_completa_1.png)
+![VPC](./Imagenes/Topologia_completa_1.png)
 ### Imagen 2
-![VPC](/Imagenes/Topologia_completa_1.png)
+![VPC](./Imagenes/Topologia_completa_1.png)
 
 
 ## Imagenes de Pings
 ### Ping 1
-![ping](/Imagenes/ping1.png)
+![ping](./Imagenes/ping1.png)
 ### Ping 2
-![ping](/Imagenes/ping2.png)
+![ping](./Imagenes/ping2.png)
 ### Ping 3
-![ping](/Imagenes/ping3.png)
+![ping](./Imagenes/ping3.png)
 ### Ping 4
-![ping](/Imagenes/ping4.png)
+![ping](./Imagenes/ping4.png)
 ### Ping 5
-![ping](/Imagenes/ping5.png)
+![ping](./Imagenes/ping5.png)
 ### Ping 6
-![ping](/Imagenes/ping6.png)
+![ping](./Imagenes/ping6.png)
 ### Ping 7
-![ping](/Imagenes/ping7.png)
+![ping](./Imagenes/ping7.png)
 ### Ping 8
-![ping](/Imagenes/ping8.png)
+![ping](./Imagenes/ping8.png)
 ### Ping 9
-![ping](/Imagenes/ping9.png)
+![ping](./Imagenes/ping9.png)
 ### Ping 10
-![ping](/Imagenes/ping10.png)
+![ping](./Imagenes/ping10.png)
 
 
 ## Imagenes de ICMP y ARP
 
-![ARP](/Imagenes/arp.png)
+![ARP](./Imagenes/arp.png)
 **ARP** - Imagen de ARP
 
 
-![ICMP](/Imagenes/ping6.png)
+![ICMP](./Imagenes/ping6.png)
 **ICMP** - Imagen de ICMP
