@@ -541,7 +541,7 @@ Password para mientras es: class
 ![](./imagenes/PingExitoso-Visitantes.png)
 
 ### Spanning-Tree
-![](./imagenes/Evidencia.PNG)
+![](./imagenes/RootBridge.PNG)
 ### Ethernet Channel
 ![](./imagenes/E1.PNG)
 ![](./imagenes/E2.PNG)
