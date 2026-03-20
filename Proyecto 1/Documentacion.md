@@ -372,7 +372,29 @@ Password para mientras es: class
 ## Capturas de ejemplos
 
 ### Pruebas de PING
-![](./imagenes/Evidencia.PNG)
+### Fallidos
+#### Admin
+![](./imagenes/PingFallido-Admin.png)
+#### Docencia
+![](./imagenes/PingFallido-Docencia.png)
+#### Laboratorio
+![](./imagenes/PingFallido-Laboratorio.png)
+#### Biblioteca
+![](./imagenes/PingFallido-Biblioteca.png)
+#### Visitantes
+![](./imagenes/PingFallido-Visitantes.png)
+### Exitosos
+#### Admin
+![](./imagenes/PingExitoso-Admin.png)
+#### Docencia
+![](./imagenes/PingExitoso-Docencia.png)
+#### Laboratorio
+![](./imagenes/PingExitoso-Laboratorio.png)
+#### Biblioteca
+![](./imagenes/PingExitoso-Biblioteca.png)
+#### Visitantes
+![](./imagenes/PingExitoso-Visitantes.png)
+
 ### Spanning-Tree
 ![](./imagenes/Evidencia.PNG)
 ### Ethernet Channel
